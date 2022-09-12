@@ -6,6 +6,8 @@ npm install @automata-network/react-wallet-sdk
 
 import { Wallet, WalletProvider } from '@automata-network/react-wallet-sdk'
 import '@automata-network/react-wallet-sdk/style.css'
+
+add WalletProvider, Wallet
 ```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
